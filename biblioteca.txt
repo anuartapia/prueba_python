@@ -1,0 +1,6 @@
+biblioteca para graficar funciones matemáticas (python 2.7):
+
+import matplotlib.pyplot as plt
+
+Debian / Ubuntu : sudo apt-get install python-matplotlib
+Fedora / Redhat : sudo yum install python-matplotlib
